@@ -15,7 +15,7 @@ LearnMate is a web application developed using Django, allowing users to create,
 ## App Preview
 
 ### Feed Home
-![Feed Home](screenshots\ss1.png)
+![Feed Home](screenshots/ss1.png)
 
 ### Room Conversation
-![Room Conversation](screenshots\ss2.png)
+![Room Conversation](screenshots/ss2.png)
