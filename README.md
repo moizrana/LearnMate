@@ -9,5 +9,13 @@ LearnMate is a web application developed using Django, allowing users to create,
 - Post messages in study rooms
 - User profile management
 - Topic-based discussions and interaction with other members in room
-- Users recent activity
-- Topic wise search room
+- Users' recent activity
+- Topic-wise search room
+
+## App Preview
+
+### Feed Home
+![Feed Home]("D:\Downloads\ss1.png")
+
+### Room Conversation
+![Room Conversation]("D:\Downloads\ss2.png")
